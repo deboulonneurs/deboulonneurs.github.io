@@ -1,0 +1,74 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+	margin: 0px;
+}
+
+td, div {
+	font-size: 12px;
+}
+
+p {
+	font-size: 14px;
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal; 
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.titre {
+	font-weight: bold;
+}
+
+
+.chapo {
+	font-weight: bold;
+}
+
+a, a.chapo, a.spip_in {
+	font-weight: bold;
+	color: #8a7161;
+	text-decoration: none;
+	border-bottom: 1px;
+}
+
+a.spip_out,  a.spip_url{
+	font-weight: bold;
+	color: #284490;
+	text-decoration: none;
+	border-bottom: 1px;
+}
+
+a:hover, .chapo a:hover, .spip_out a:hover, .spip_url a:hover, .spip_in a:hover {
+	color: #fe0000;
+	text-decoration: none;
+}
+
+.titre1	{
+	font-size: 11px;
+	color: white;
+	font-weight: bold;
+}
+	
+.titre2 {
+	font-size: 14px;
+	color:  #fe0000;
+	font-weight: bold;
+}
+
+.petit {font-family: Verdana,Geneva,Arial,Helvetica,sans-serif,courier; font-style: normal; font-variant: normal; font-weight: normal; font-size: 8px; color: #FFFFFF} 
+
+.petits-points-rouges {
+background-color: #ffffff;
+border-color: red ;
+border-style: dotted ;
+padding	:5px;
+}
